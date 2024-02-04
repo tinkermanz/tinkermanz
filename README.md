@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="100%" src="https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg"  />
+  <img width='100%' height="100%" src="https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg"  />
 </div>
 
 ###
@@ -64,9 +64,8 @@
 
 ### ✍️ Random Dev Quote
 
-<div align='center'>
- <img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)' />
-</div>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=agolia)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
 ---
 
