@@ -1,8 +1,25 @@
+<div align="center">
+  <img height="150" src="https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg"  />
+</div>
+
+###
+
+<h1 align="center">hey there 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+
+###
+
 
 ## 🌐 Socials:
 
-
-# 💻 Tech Stack:
+<h3 align="left">🛠 Language and tools</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -56,4 +73,7 @@
 [![](https://visitcount.itsvg.in/api?id=tinkermanz&icon=1&color=12)](https://visitcount.itsvg.in)
 
 ###
+
+
+
 
